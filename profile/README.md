@@ -1,4 +1,4 @@
-![GitHub-Banner](https://user-images.githubusercontent.com/56041257/196036026-ed04d07f-5263-4804-9529-a0601fedaec5.png)
+![GitHub-Banner](https://github.com/neurae/.github/blob/main/profile/neurae-gh-profile-banner.png)
 
 ## About us
 
